@@ -1,0 +1,12 @@
+.space-main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.space-main ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+  gap: 10px;
+}
